@@ -20,7 +20,14 @@ module.exports = {
         interaction.channel.send({
             embeds: [{
                 title: "Open Ticket",
-                description: `**__How Top Open A Ticket :__**\nPlease choose the type of ticket you wish to open.`,
+                description: `****Welcome to Toolify Shop!
+
+Experience the best marketing with Toolify Shop! 
+Choose the ticket type from the dropdown below 
+so we can provide you with dedicated support!
+
+> Our support team will get back to you shortly!`,
+                image: "https://share.creavite.co/6751e26501dbfe495dee3f9b.gif"
                 footer: {
                     text: "Ticket Support"
                 },
